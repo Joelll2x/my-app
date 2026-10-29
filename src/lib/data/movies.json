@@ -1,0 +1,50 @@
+[
+	{
+		"title": "Midnight Harbor",
+		"year": 2025,
+		"length": "128 minutes",
+		"poster": "/images/midnight-harbor.png"
+	},
+	{
+		"title": "The Last Lighthouse",
+		"year": 2024,
+		"length": "112 minutes",
+		"poster": "/images/the-last-lighthouse.png"
+	},
+	{
+		"title": "Neon Horizon",
+		"year": 2023,
+		"length": "143 minutes",
+		"poster": "/images/neon-horizon.png"
+	},
+	{
+		"title": "Echoes of Tomorrow",
+		"year": 2025,
+		"length": "136 minutes",
+		"poster": "/images/echoes-of-tomorrow.png"
+	},
+	{
+		"title": "Paper Cranes",
+		"year": 2022,
+		"length": "98 minutes",
+		"poster": "/images/paper-cranes.png"
+	},
+	{
+		"title": "Silent Meridian",
+		"year": 2024,
+		"length": "121 minutes",
+		"poster": "/images/silent-meridian.png"
+	},
+	{
+		"title": "Crimson Valley",
+		"year": 2021,
+		"length": "154 minutes",
+		"poster": "/images/crimson-valley.png"
+	},
+	{
+		"title": "Orbit of Strangers",
+		"year": 2026,
+		"length": "139 minutes",
+		"poster": "/images/orbit-of-strangers.png"
+	}
+]
