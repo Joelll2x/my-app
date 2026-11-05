@@ -15,7 +15,7 @@
 		<h5 class="card-title">
 			<a href="/movies/{slugify(movie.title)}" class="text-reset text-decoration-none">
 				{movie.title}
-			</a>
+			</a>	
 		</h5>
 		<p class="card-text text-muted mb-1">{movie.year}</p>
 		<p class="card-text text-muted mb-0">{movie.length}</p>
